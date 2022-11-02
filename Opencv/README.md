@@ -15,8 +15,7 @@ pip3 install opencv-python
 python3 blueImage.py --image_file peacock.jpg
 ```
 - **Input:**
-  - **Parameters**
-    - **Parameter1:** --image_file: Image file location
+  - **Parameter1:** --image_file: Image file location
 - **Output:** It stores the output images with particular blur method names. 
 
 ## Original Document
