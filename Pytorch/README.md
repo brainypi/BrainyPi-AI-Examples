@@ -11,9 +11,10 @@ pip3 install torch torchvision
 ```sh
 python3 classify_image.py --image_file
 ```
-- Parameters
+- Input
   - Parameter1: --image_file: Image file location
   - Parameter2: ----num_top_predictions: No of predictions you want to see
-
+- Output
+  - Shows the Label with probability on terminal
 ## Original Document
 https://pytorch.org/tutorials/intermediate/realtime_rpi.html
