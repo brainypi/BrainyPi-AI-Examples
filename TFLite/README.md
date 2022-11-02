@@ -11,9 +11,12 @@ pip3 install tflite-runtime
 ```sh
 python3 classify_image.py --image_file peacock.jpg
 ```
-- Parameters
+
+- Input
   - Parameter1: --image_file: Image file location
   - Parameter2: ----num_top_predictions: No of predictions you want to see
-
+- Output
+  - Shows the Label with probability on terminal
+  
 ## Original Document
 https://blog.paperspace.com/tensorflow-lite-raspberry-pi/
