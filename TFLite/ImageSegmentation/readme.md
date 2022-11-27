@@ -13,8 +13,8 @@ python3 imageSegmentaion.py
 ```
 
 - Input
-  - Parameter1: --image_dir: Image file location.
-  - Parameter2: --save_dir: Directory path to save the result image.
+  - Parameter1: --image_dir: Image file location. (default='images/car.jpg')
+  - Parameter2: --save_dir: Directory path to save the result image. (default='results/result.jpg')
 - Output
   - Shows the segmentation and overlay with class labels in the output image.
   
