@@ -7,8 +7,6 @@ sudo apt-get install libjasper-dev
 
 # Installs OpenCV pip package
 
-pip install opencv-python==4.1.0.25
+pip install opencv
 
-# Install the tflite_runtime
-pip install https://github.com/google-coral/pycoral/releases/download/release-frogfish/tflite_runtime-2.5.0-cp37-cp37m-linux_armv7l.whl
 echo Prerequisites Installed Successfully
