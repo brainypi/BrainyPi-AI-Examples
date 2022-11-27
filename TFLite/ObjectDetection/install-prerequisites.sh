@@ -6,7 +6,6 @@ sudo apt-get install libatlas-base-dev
 sudo apt-get install libjasper-dev
 
 # Installs OpenCV pip package
-
-pip install opencv
+pip install opencv-python
 
 echo Prerequisites Installed Successfully
