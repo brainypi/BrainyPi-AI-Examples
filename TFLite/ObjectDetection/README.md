@@ -30,7 +30,8 @@ python3 objectDetection.py
   
 ## Original Documentation and Model
 https://www.tensorflow.org/lite/examples/object_detection/overview
+
 https://tfhub.dev/tensorflow/lite-model/ssd_mobilenet_v1/1/default/1
 
 ## References
-armaanpriyadarshan/TensorFlow-2-Lite-Object-Detection-on-the-Raspberry-Pi: This repository contains everything you need to run TensorFlow Lite on the Raspberry Pi with the updated TensorFlow 2 version.
+https://github.com/armaanpriyadarshan/TensorFlow-2-Lite-Object-Detection-on-the-Raspberry-Pi
