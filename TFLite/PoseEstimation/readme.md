@@ -20,7 +20,7 @@ python3 poseEstimation.py
 
 - Input
   - Parameter1: --image_dir: Image file location. (default='images/pose1.jpg')
-  - Parameter2: --save_dir: Directory path to save the result image. (default='results/result.jpg')
+  - Parameter2: --save_dir: Directory path to save the result image. (default='results/result.jpeg')
 - Output
   - Shows the segmentation and overlay with class labels in the output image.
   
