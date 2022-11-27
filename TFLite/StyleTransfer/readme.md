@@ -23,7 +23,7 @@ python3 styleTransfer.py
   - Parameter2: --content_image_dir: content Image file location. (default='images/content.jpg')
   - Parameter3: --save_dir: Directory path to save the result image. (default='results/result.jpeg')
 - Output
-  - Shows the segmentation and overlay with class labels in the output image.
+  - Shows the Stylized image as a combination of content and style images.
   
 ## Original Documentation and Model
 https://tfhub.dev/google/lite-model/magenta/arbitrary-image-stylization-v1-256/int8/transfer/1
