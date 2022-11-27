@@ -19,8 +19,8 @@ python3 poseEstimation.py
 ```
 
 - Input
-  - Parameter1: --image_dir: Image file location. (default='images/pose1.jpg')
-  - Parameter2: --save_dir: Directory path to save the result image. (default='results/result.jpeg')
+  - Parameter1: --image_dir: Image file location. (default='images/pose1.jpeg')
+  - Parameter2: --save_dir: Directory path to save the result image. (default='results/result.jpg')
 - Output
   - Marks the keypoints on the image (The model is trained on images with a single person only)
   
