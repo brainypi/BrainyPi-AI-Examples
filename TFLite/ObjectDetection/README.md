@@ -1,6 +1,6 @@
 ## Object Detection With TFLite on BrainyPi 
 ## Description
-We will be implementing object detection application on BrainyPi [using starter model](https://www.tensorflow.org/lite/examples/object_detection/overview) trained on COCO 2017 dataset.
+We will be implementing object detection application on BrainyPi using [starter model](https://www.tensorflow.org/lite/examples/object_detection/overview) trained on COCO 2017 dataset.
 
 ## Install TFlite on BrainyPi
 ```sh
@@ -14,7 +14,7 @@ pip3 install tflite-runtime
   ```
 ## Install prerequisites
 ```sh
-./install-prerequisites.sh
+bash install-prerequisites.sh
 ```
 
 ## Run Object Detection example
