@@ -13,7 +13,7 @@ pip3 install tflite-runtime
   cd BrainyPi-AI-Examples/TFLite/ImageSegmentation
   ```
 
-## Run Image classfication example
+## Run Image segmentation example
 ```sh
 python3 imageSegmentaion.py 
 ```
