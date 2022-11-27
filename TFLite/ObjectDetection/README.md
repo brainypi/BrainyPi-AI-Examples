@@ -31,8 +31,8 @@ python3 objectDetection.py
                     (default='images/test1.jpg')
   - Parameter 4: '--threshold', help='Minimum confidence threshold for displaying detected objects'
                     (default=0.5)
-  - Parameter 5: '--save_dir', help='Directory path to save the image',
-                    default='results/result.jpg')
+  - Parameter 5: '--save_dir', help='Directory path to save the image'
+                    (default='results/result.jpg')
 - Output
   - Shows predicted object bounding boxes with confidence scores.
   
