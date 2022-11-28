@@ -26,7 +26,7 @@ python3 styleTransfer.py
   - Shows the Stylized image as a combination of content and style images.
   
 ## Sample Input and Output images
-<img src="images/content.jpg" alt="drawing" width="500"/>                 <img src="images/style.jpg" alt="drawing" width="500"/>
+<img src="images/content.jpg" alt="drawing" width="500" height="500"/>                 <img src="images/style.jpg" alt="drawing" width="500" height="500" />
 <img src="results/result.jpg" />
   
 ## Original Documentation and Model
