@@ -21,10 +21,6 @@ bash install-prerequisites.sh
 ```sh
 python3 objectDetection.py 
 ```
-## Sample Input and Output images
-<img src="images/test1.jpg" alt="drawing" width="1000"/>
-<img src="results/result.jpg" />
-
 - Input
   - Parameter 1: '--model', help='Provide the path to the TFLite file, default is models/model.tflite'
                     (default='models/model.tflite')
@@ -38,6 +34,10 @@ python3 objectDetection.py
                     (default='results/result.jpg')
 - Output
   - Shows predicted object bounding boxes with confidence scores.
+
+## Sample Input and Output images
+<img src="images/test1.jpg" alt="drawing" width="1000"/>
+<img src="results/result.jpg" />
   
 ## Original Documentation and Model
 https://www.tensorflow.org/lite/examples/object_detection/overview
