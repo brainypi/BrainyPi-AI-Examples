@@ -25,8 +25,8 @@ python3 poseEstimation.py
   - Marks the keypoints on the image (The model is trained on images with a single person only)
   
 ## Sample Input and Output images
-<img src="images/pose1.jpeg" alt="drawing" width="1000"/>
-<img src="results/result.jpg" />
+<img src="images/pose1.jpeg" alt="drawing" width="500"/>
+<img src="results/result.jpg" width=500 />
   
 ## Original Documentation and Model
 https://tfhub.dev/google/lite-model/movenet/singlepose/lightning/tflite/int8/4
