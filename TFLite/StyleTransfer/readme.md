@@ -25,5 +25,10 @@ python3 styleTransfer.py
 - Output
   - Shows the Stylized image as a combination of content and style images.
   
+## Sample Input and Output images
+<img src="images/content.jpg" alt="drawing" width="1000"/>
+<img src="images/style.jpg" alt="drawing" width="1000"/>
+<img src="results/result.jpg" />
+  
 ## Original Documentation and Model
 https://tfhub.dev/google/lite-model/magenta/arbitrary-image-stylization-v1-256/int8/transfer/1
