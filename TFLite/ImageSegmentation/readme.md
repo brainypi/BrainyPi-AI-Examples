@@ -25,7 +25,7 @@ python3 imageSegmentaion.py
   - Shows the segmentation and overlay with class labels in the output image.
   
 ## Sample Input and Output images
-<img src="images/car.jpg" alt="drawing" width="500"/>
+<img src="images/car.jpg" alt="drawing" width="1000"/>
 <img src="results/result.jpg" />
   
 ## Original Documentation and Model
