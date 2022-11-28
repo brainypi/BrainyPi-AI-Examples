@@ -24,5 +24,9 @@ python3 superResolution.py
 - Output
   - Saves an enhanced image in the specified directory. 
   
+ ## Sample Input and Output images
+<img src="images/low.jpg" alt="drawing" width="500"/>
+<img src="results/result.jpg" />
+  
 ## Original Documentation and Model
 https://tfhub.dev/sayannath/lite-model/zero-dce/1
