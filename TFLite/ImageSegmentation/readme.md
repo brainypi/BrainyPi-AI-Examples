@@ -24,5 +24,9 @@ python3 imageSegmentaion.py
 - Output
   - Shows the segmentation and overlay with class labels in the output image.
   
+## Sample Input and Output images
+![](images/car.jpg)
+![](results/result.jpg)
+  
 ## Original Documentation and Model
 https://tfhub.dev/sayakpaul/lite-model/mobilenetv2-dm05-coco/fp16/1
