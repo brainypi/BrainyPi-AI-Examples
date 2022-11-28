@@ -25,7 +25,7 @@ python3 superResolution.py
   - Saves an enhanced image in the specified directory. 
   
  ## Sample Input and Output images
-<img src="images/low.jpg" alt="drawing" width="900"/>
+<img src="images/low.jpg" alt="drawing" width="1000"/>
 <img src="results/result.jpg" />
   
 ## Original Documentation and Model
