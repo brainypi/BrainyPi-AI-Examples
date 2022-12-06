@@ -13,7 +13,7 @@ pip3 install tflite-runtime
   cd BrainyPi-AI-Examples/TFLite/SuperResolution
   ```
 
-## Run Pose Estimation example
+## Run Super Resolution example
 ```sh
 python3 superResolution.py 
 ```
