@@ -92,11 +92,5 @@ This Document will give you a step wise instuctions for installing AI frameworks
   - Output
     - Stores output images with respective blue method names.
     
-## MxNet: In Progress (Open for community to contribute)
-### 1. Installing MxNet: 
-### 2. MxNet sample program
-## CNTK: In Progress (Open for community to contribute)
-### 1. Installing CNTK 
-### 2. CNTK sample program
-
 ## More Examples and Sample Projects on AI 
+   - [TFLite Example](https://github.com/brainypi/BrainyPi-AI-Examples/tree/main/TFLite)
