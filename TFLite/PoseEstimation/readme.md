@@ -9,7 +9,7 @@ pip3 install tflite-runtime
 
 ## Clone the repository
   ```sh
-  git clone https://github.com/brainypi0/BrainyPi-AI-Examples.git
+  git clone https://github.com/brainypi/BrainyPi-AI-Examples.git
   cd BrainyPi-AI-Examples/TFLite/PoseEstimation
   ```
 

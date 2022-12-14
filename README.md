@@ -12,7 +12,7 @@ This Document will give you a step wise instuctions for installing AI frameworks
 ### 2. TF sample program to classify 1000 imagenet classes
 - Clone the repository and navigate to folder
   ```sh
-  git clone https://github.com/brainypi0/BrainyPi-AI-Examples.git
+  git clone https://github.com/brainypi/BrainyPi-AI-Examples.git
   cd BrainyPi-AI-Examples/Tensorflow
   ```
 - Run Image classfication example. classifies Imagenet 1000 classes.
@@ -35,7 +35,7 @@ This Document will give you a step wise instuctions for installing AI frameworks
 ### 2. TFlite sample program to classify 1000 imagenet classes
 - Clone the repository and navigate to folder
   ```sh
-  git clone https://github.com/brainypi0/BrainyPi-AI-Examples.git
+  git clone https://github.com/brainypi/BrainyPi-AI-Examples.git
   cd BrainyPi-AI-Examples/TFLite
   ```
 - Run Image classfication example. classifies Imagenet 1000 classes.
@@ -57,7 +57,7 @@ This Document will give you a step wise instuctions for installing AI frameworks
 ### 2. Pytorch Sample program to classify 1000 imagenet classes
 - Clone the repository and navigate to folder
   ```sh
-  git clone https://github.com/brainypi0/BrainyPi-AI-Examples.git
+  git clone https://github.com/brainypi/BrainyPi-AI-Examples.git
   cd BrainyPi-AI-Examples/Pytorch
   ```
 - Run Image classfication example. classifies Imagenet 1000 classes.
@@ -80,7 +80,7 @@ This Document will give you a step wise instuctions for installing AI frameworks
 ### 2. Opencv Sample program to blur the image
 - Clone the repository and navigate to folder
   ```sh
-  git clone https://github.com/brainypi0/BrainyPi-AI-Examples.git
+  git clone https://github.com/brainypi/BrainyPi-AI-Examples.git
   cd BrainyPi-AI-Examples/Opencv
   ```
 - Run Image Blur example.

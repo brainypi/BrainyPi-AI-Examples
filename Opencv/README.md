@@ -9,7 +9,11 @@ We will be implementing different image blurring methods with opencv on brainyPi
 ```sh
 pip3 install opencv-python
 ```
-
+## Clone the repository
+  ```sh
+  git clone https://github.com/brainypi/BrainyPi-AI-Examples.git
+  cd BrainyPi-AI-Examples/Opencv
+  ```
 ## Run Image Blurring example
 ```sh
 python3 blueImage.py --image_file peacock.jpg

@@ -6,6 +6,11 @@ We will be implementing image recognition application on BrainyPi which is train
 ```sh
 pip3 install tflite-runtime
 ```
+## Clone the repository
+  ```sh
+  git clone https://github.com/brainypi0/BrainyPi-AI-Examples.git
+  cd BrainyPi-AI-Examples/TFLite/ImageClassification
+  ```
 
 ## Run Image classfication example
 ```sh

@@ -8,6 +8,12 @@ pip3 install tensorflow
 ```
 - Installs version = 2.10.0
 
+## Clone the repository
+  ```sh
+  git clone https://github.com/brainypi/BrainyPi-AI-Examples.git
+  cd BrainyPi-AI-Examples/Tensorflow
+  ```
+
 ## Run Image classfication example
 ```sh
 python3 classify_image.py --image_file peacock.jpg

@@ -6,7 +6,11 @@ We will be implementing image recognition application on BrainyPi which is train
 ```sh
 pip3 install torch torchvision
 ```
-
+## Clone the repository
+  ```sh
+  git clone https://github.com/brainypi/BrainyPi-AI-Examples.git
+  cd BrainyPi-AI-Examples/Pytorch
+  ```
 ## Run Image classfication example
 ```sh
 python3 classify_image.py --image_file
