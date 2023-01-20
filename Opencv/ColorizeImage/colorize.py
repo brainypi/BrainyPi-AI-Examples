@@ -79,4 +79,4 @@ plt.show()
 # Converting RGB to BGR
 RGB_BGR = cv2.cvtColor(RGB_colored, cv2.COLOR_RGB2BGR)
 # Saving the image in desired path
-cv2.imwrite("~/ai-apps/colorization/output_images/"+image, RGB_BGR)
+cv2.imwrite("~/BrainyPi-AI-Examples/Opencv/ColorizeImage/"+image, RGB_BGR)
