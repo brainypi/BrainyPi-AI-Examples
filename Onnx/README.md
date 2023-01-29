@@ -5,7 +5,7 @@ We will be implementing image recognition application on ONNX which is trained o
 ## Install Onnx Runtime on BrainyPi
 ```sh
 pip3 install tensorflow tensorflow-io
-pip3 install onnx-runtime
+pip3 install onnxruntime
 ```
 ## Clone the repository
   ```sh
