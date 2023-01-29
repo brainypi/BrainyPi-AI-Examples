@@ -34,7 +34,7 @@ x = np.expand_dims(x, axis=0)
 x = preprocess_input(x)
 
 # Model path
-output_path = "model/resnet50.onnx"
+output_path = "resnet50.onnx"
 providers = ['CPUExecutionProvider']
 m = rt.InferenceSession(output_path, providers=providers)
 onnx_pred = m.run(output_names, {"input": x})
